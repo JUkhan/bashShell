@@ -1,2 +1,4 @@
-# bashShell
-bashShell programming with zx
+# bashScript
+
+bashScript with
+[Google ZX](https://github.com/google/zx)
